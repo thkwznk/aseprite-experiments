@@ -2,6 +2,12 @@
 
 A collection of various experimental Aseprite scripts.
 
+## Timeline Snake
+
+Implementation of the classic Snake game running on the Aseprite's timeline.
+
+![GIF showing an implementation of the classic Snake game running on the Aseprite's timeline.](images/timeline-snake.gif)
+
 ## How to use scripts in Aseprite?
 
 1. Download a script file (*.lua)
